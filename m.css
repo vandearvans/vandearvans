@@ -3,6 +3,11 @@ body {
     background-color: #000
 }
 
+* {
+    cursor: url('https://tobiasahlin.com/static/cursors/default.png'), auto;
+  }
+
+
 #text {
     position: relative;
     top: 170px;
